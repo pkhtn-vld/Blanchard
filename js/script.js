@@ -399,7 +399,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {},
       {
         iconLayout: "default#image",
-        iconImageHref: "/img/map-marker.svg",
+        iconImageHref: "img/map-marker.svg",
         iconImageSize: [20, 20],
         iconImageOffset: [0, 0],
       }
